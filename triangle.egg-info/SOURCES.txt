@@ -1,0 +1,6 @@
+setup.py
+tests/test_area.py
+triangle.egg-info/PKG-INFO
+triangle.egg-info/SOURCES.txt
+triangle.egg-info/dependency_links.txt
+triangle.egg-info/top_level.txt
